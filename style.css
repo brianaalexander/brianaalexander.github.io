@@ -150,12 +150,21 @@ h6 {
   color: red;
 }
 
+.bi-github {
+  color: black;
+  font-size: 50px;
+}
+
+.bi-github:hover {
+  color: red;
+}
+
 .bi-linkedin {
   font-size: 50px;
 }
 
 .bi-linkedin:hover {
-  color: hotpink;
+  color: red;
 }
 
 .bi-telephone {
@@ -164,7 +173,7 @@ h6 {
 }
 
 .bi-telephone:hover {
-  color: lightblue;
+  color: red;
 }
 
 footer {
