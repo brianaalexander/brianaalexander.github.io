@@ -1,14 +1,12 @@
 body {
   height: 100%;
   relative;
-  background-image: url("img/Workplace.jpeg");
+  background-image: url("img/Marble.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .hero-image {
-  /* background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("img/Beach.jpeg"); */
-  /*   height: 50vh; */
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,7 +21,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: purple;
+  color: black;
   font-family: 'Abril Fatface';
   text-shadow: 2px 2px white;
 }
