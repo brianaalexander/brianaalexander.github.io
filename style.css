@@ -1,7 +1,7 @@
 body {
   height: 100%;
   relative;
-  background-image: url("img/Marble.jpg");
+  background-image: url("img/GoldWhite.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -21,9 +21,9 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: black;
+  color: indianred;
   font-family: 'Abril Fatface';
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px whitesmoke;
 }
 
 .off-text {
@@ -31,7 +31,7 @@ body {
 }
 
 .bi-house {
-  color: purple;
+  color: indianred;
   font-size: 25px;
   margin-left: 15px;
 }
@@ -41,7 +41,7 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 8px solid #b39eb5;
+  border: 2px solid indianred;
 }
 
 .avatar:hover {
@@ -92,28 +92,28 @@ h1 {
 
 h2 {
   font-family: 'Abril Fatface', cursive;
-  color: purple;
+  color: indianred;
   margin-top: 10px;
   font-size: 45px;
 }
 
 h3 {
   font-family: 'Abril Fatface', cursive;
-  color: purple;
+  color: indianred;
   margin-top: 10px;
   font-size: 45px;
 }
 
 h4 {
   font-family: 'Abril Fatface', cursive;
-  color: purple;
+  color: indianred;
   margin-top: 10px;
   font-size: 45px;
 }
 
 h6 {
   font-family: 'Abril Fatface', cursive;
-  color: purple;
+  color: indianred;
   margin-top: 10px;
   font-size: 45px;
 }
